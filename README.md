@@ -5,7 +5,7 @@ Create PAK:
 
 A WPF application developed in C# and XAML that allows you to create a custom PAK file with multiple level files for Kula World level mods.
 
-![Screenshot 1](https://www.satial.xyz/screenshots/GLpGftsEWTDJjzyR.png)
+![Screenshot 1](https://raw.githubusercontent.com/SaturnKai/KulaSharp/main/.screenshots/screenshot.png)
 
 Extract PAK:
 -----
